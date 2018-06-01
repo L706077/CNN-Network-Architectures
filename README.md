@@ -2,7 +2,6 @@
 popular network architecture lis
 
 ---
-# Old School Network
 
 ## AlexNet
 
@@ -17,7 +16,7 @@ popular network architecture lis
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 - [ResNet18](https://github.com/HolmesShuan/ResNet-18-Caffemodel-on-ImageNet)
 - [ResNet50/101/152](https://github.com/KaimingHe/deep-residual-networks)
-
+</>
 
 ## DenseNet
 - [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
