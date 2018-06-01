@@ -50,8 +50,9 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 - [SE-block](https://github.com/hujie-frank/SENet)
 
 
+## InsightFace Net
+- [LRestNetE-IR](https://github.com/deepinsight/insightface)
 
-# InsightFace Net
 
 ---
 
