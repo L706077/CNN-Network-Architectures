@@ -12,19 +12,19 @@ popular network architecture list
 
 ## VGG2
 - [VGGFace2: A dataset for recognising faces across pose and age](https://arxiv.org/pdf/1710.08092.pdf)
-- [vgg2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
+- [[vgg2]](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
 
 ---
 
 ## ResNet
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
-- [ResNet18](https://github.com/HolmesShuan/ResNet-18-Caffemodel-on-ImageNet)
-- [ResNet50/101/152](https://github.com/KaimingHe/deep-residual-networks)
+- [[ResNet18]](https://github.com/HolmesShuan/ResNet-18-Caffemodel-on-ImageNet)
+- [[ResNet50/101/152]](https://github.com/KaimingHe/deep-residual-networks)
 
 
 ## DenseNet
 - [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
-- [DenseNet121/161](https://github.com/shicai/DenseNet-Caffe)
+- [[DenseNet121/161]](https://github.com/shicai/DenseNet-Caffe)
 
 
 ## InceptionResNet v1, v2 / Inception v3, v4
@@ -51,11 +51,11 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 
 ## SENet
 - [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
-- [SE-block](https://github.com/hujie-frank/SENet)
+- [[SE-block]](https://github.com/hujie-frank/SENet)
 
 
 ## InsightFace Net
-- [LRestNetE-IR](https://github.com/deepinsight/insightface)
+- [[LRestNetE-IR]](https://github.com/deepinsight/insightface)
 
 
 ---
