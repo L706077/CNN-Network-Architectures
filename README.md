@@ -39,7 +39,7 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 
 ## PyramidNet
 - [Deep Pyramidal Residual Networks](https://arxiv.org/pdf/1610.02915.pdf)
-
+- [[PyramidNet]](https://github.com/jhkim89/PyramidNet-caffe)
 
 ## Dual Path Networks
 - [Dual Path Networks](https://arxiv.org/pdf/1707.01629.pdf)
