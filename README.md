@@ -64,13 +64,13 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 
 ## SqueezeNet
 - [squeezenet alexnet-level accuracy with 50x fewer parameters and 0.5mb model size](https://arxiv.org/pdf/1602.07360.pdf)
-- [SqueezeNet v1.0/v1.1](https://github.com/DeepScale/SqueezeNet)
+- [[SqueezeNet v1.0/v1.1]](https://github.com/DeepScale/SqueezeNet)
 
 
 ## MobileNet v1, v2
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
-- [MobileNet v1/v2](https://github.com/shicai/MobileNet-Caffe)
+- [[MobileNet v1/v2]](https://github.com/shicai/MobileNet-Caffe)
 
 
 ## ShuffleNet
