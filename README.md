@@ -1,14 +1,18 @@
 # CNN-Network-Architectures
-popular network architecture lis
+popular network architecture list
 
 ---
 
 ## AlexNet
 
-## VGG 
+## VGG
 
 ## GoogleNet
 - [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf)
+
+## VGG2
+-[VGGFace2: A dataset for recognising faces across pose and age](https://arxiv.org/pdf/1710.08092.pdf)
+-[vgg2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
 
 ---
 
