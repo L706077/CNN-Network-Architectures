@@ -1,6 +1,6 @@
 # CNN-Network-Architectures
 popular network architecture list
-
+- [[Models]](https://github.com/jolibrain/deepdetect)
 ---
 
 ## AlexNet
