@@ -75,10 +75,13 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 
 ## ShuffleNet
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf)
+- [[ShuffleNet]](https://github.com/farmingyard/ShuffleNet)
+- [[ShuffleNet]](https://github.com/AresGao/shufflenet-caffe)
 
 
 ## SqueezeNext
 - [SqueezeNext: Hardware-Aware Neural Network Design](https://arxiv.org/pdf/1803.10615.pdf)
+- [[SqueezeNext]](https://github.com/amirgholami/SqueezeNext)
 
 
 ## Xception
