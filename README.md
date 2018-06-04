@@ -35,7 +35,7 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 
 ## ResNeXt-101
 - [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1709.01507.pdf)
-
+- [[ResNeXt]](https://github.com/cypw/ResNeXt-1)
 
 ## PyramidNet
 - [Deep Pyramidal Residual Networks](https://arxiv.org/pdf/1610.02915.pdf)
