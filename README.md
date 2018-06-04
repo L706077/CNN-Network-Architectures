@@ -29,9 +29,8 @@ popular network architecture list
 
 ## InceptionResNet v1, v2 / Inception v3, v4
 - [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
-- [Inception-v4, Inception-ResNet and
-the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
-
+- [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
+- [[Inception v4]](https://github.com/soeaver/caffe-model/blob/master/cls/inception/deploy_inception-v4.prototxt)
 
 ## ResNeXt-101
 - [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1709.01507.pdf)
@@ -43,7 +42,7 @@ the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261
 
 ## Dual Path Networks
 - [Dual Path Networks](https://arxiv.org/pdf/1707.01629.pdf)
-
+- [[DPNs]](https://github.com/soeaver/caffe-model/tree/master/cls/dpn)
 
 ## NASNet
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
