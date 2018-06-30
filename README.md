@@ -89,7 +89,7 @@ popular network architecture list
 
 ## MobileFaceNet
 - [MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573) 
-- [MobileFaceNet](https://github.com/imistyrain/MobileFaceNet)
+- [[MobileFaceNet]](https://github.com/imistyrain/MobileFaceNet)
 
 
 
