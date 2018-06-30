@@ -87,7 +87,9 @@ popular network architecture list
 - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
 
 
-
+## MobileFaceNet
+- [MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573) 
+- [MobileFaceNet](https://github.com/imistyrain/MobileFaceNet)
 
 
 
