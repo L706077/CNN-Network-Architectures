@@ -91,7 +91,8 @@ popular network architecture list
 - [MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573) 
 - [[MobileFaceNet]](https://github.com/imistyrain/MobileFaceNet)
 
-
+## ShuffleNet v2
+- [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)
 
 
 
