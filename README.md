@@ -33,7 +33,7 @@ popular network architecture list
 - [[Inception v4]](https://github.com/soeaver/caffe-model/blob/master/cls/inception/deploy_inception-v4.prototxt)
 
 ## ResNeXt-101
-- [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1709.01507.pdf)
+- [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf)
 - [[ResNeXt]](https://github.com/cypw/ResNeXt-1)
 
 ## PyramidNet
