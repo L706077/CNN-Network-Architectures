@@ -98,7 +98,7 @@ popular network architecture list
 
 ## MnasNet
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf)
-
+- [[MnasNet]](https://github.com/LiJianfei06/MnasNet-caffe)
 
 
 
