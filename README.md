@@ -94,7 +94,8 @@ popular network architecture list
 
 ## ShuffleNet v2
 - [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)
-
+- [[ShuffleNet v2]](https://github.com/farmingyard/ShuffleNet)
+- [[ShuffleNet v2]](https://github.com/miaow1988/ShuffleNet_V2_pytorch_caffe)
 
 ## MnasNet
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf)
