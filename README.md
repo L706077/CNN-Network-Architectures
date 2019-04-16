@@ -57,6 +57,10 @@ popular network architecture list
 - [[LRestNetE-IR]](https://github.com/deepinsight/insightface)
 
 
+## Res2Net
+- [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/abs/1904.01169.pdf)
+
+
 ---
 
 # Lightweight
