@@ -57,6 +57,10 @@ popular network architecture list
 - [[LRestNetE-IR]](https://github.com/deepinsight/insightface)
 
 
+## SKNet
+- [Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)
+
+
 ## Res2Net
 - [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/abs/1904.01169.pdf)
 
