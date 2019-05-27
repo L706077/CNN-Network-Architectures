@@ -59,6 +59,7 @@ popular network architecture list
 
 ## SKNet
 - [Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)
+- [[SK-block]](https://github.com/implus/SKNet)
 
 
 ## Res2Net
