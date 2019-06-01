@@ -66,6 +66,9 @@ popular network architecture list
 - [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/abs/1904.01169.pdf)
 
 
+## EfficientNet
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
+
 ---
 
 # Lightweight
