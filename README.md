@@ -117,3 +117,6 @@ popular network architecture list
 - [MobileNet v3 : Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf?fbclid=IwAR3T8dA9HdCUx_QnVzFXV2evM3ePK5xCl4YxQ3F_FYglwngUtMkQE9AOZFs)
 - [[MobileNet v3]](https://github.com/jixing0415/caffe-mobilenet-v3)
 
+## MixNet
+- [MixNet: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595)
+- [[MixNet]](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
