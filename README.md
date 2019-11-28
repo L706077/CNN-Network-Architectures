@@ -69,6 +69,10 @@ popular network architecture list
 ## EfficientNet
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
 
+
+## IdleBlock
+- [Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition](https://arxiv.org/pdf/1911.08609.pdf)
+
 ---
 
 # Lightweight
